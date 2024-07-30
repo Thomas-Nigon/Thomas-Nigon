@@ -11,7 +11,7 @@ I'm Thomas, a French web developer with experience in React, Angular, Node.js, E
 - ### Projects
 - [My portfolio](https://github.com/Thomas-Nigon/myPortFolio-JS)
 - [MyBoxing Trainer ](https://github.com/Thomas-Nigon/My-Boxing-Trainer--V2): A sprint fullstack project done in 2 days during the Wild code School 
-- [Eating NamNam](https://github.com/Thomas-Nigon/eatingnamnam-TNIG)): The last project of Wild code school built during the last month and a half of the school
+- [Eating NamNam](https://github.com/Thomas-Nigon/eatingnamnam-TNIG): The last project of Wild code school built during the last month and a half of the school
 
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/thomas-nigon/)
